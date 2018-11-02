@@ -1,0 +1,45 @@
+Partlist exported from C:/Users/JUNIOR/Dropbox/trabalho maua/Projeto Romano/Eagle/romano16f628.sch at 03/06/2014 00:45:43
+
+Assembly variant: 
+
+Qty Value                            Device                           Parts                       
+1                                    JP1Q                             JP9                         
+3                                    JUMPER3                          JP3, JP4, JP8               
+3                                    PINHD-1X3                        JP1, JP6, JP7               
+1                                    PINHD-1X9                        JP2                         
+1                                    PINHD-2X2                        JP5                         
+1   1N4004                           1N4004                           D6                          
+1   1N5819-T                         1N5819-T                         D5                          
+1   1R/1W                            R-EU_0207/12                     RS                          
+1   1k4                              R-EU_R0805                       RB2                         
+1   1k5                              R-EU_R0805                       RA1                         
+1   3k74                             R-EU_0207/5V                     RB4                         
+2   4u7F                             CPOL-EUE5-6                      C2, C4                      
+1   4v3                              ZENER-DIODEDO34-7                D7                          
+1   10k                              R-EU_0207/5V                     RB3                         
+7   10k                              R-EU_R0805                       R3, R4, R5, R8, R9, R10, RB1
+4   10n                              C-EUC0805                        C7, C8, C9, C10             
+1   10uF                             CPOL-EUE5-6                      C17                         
+1   22uH/3A                          R-EU_0207/7                      L3                          
+1   30k                              R-EU_R0805                       RA                          
+1   33uF                             CPOL-EUE5-6                      C11                         
+1   33uH/3A                          R-EU_0207/7                      L1                          
+1   43k                              R-EU_R0805                       RB                          
+1   47uF                             CPOL-EUE5-6                      C6                          
+1   66k5                             R-EU_R0805                       RA2                         
+5   100n                             C-EUC0805                        C5, C13, C14, C15, C16      
+2   100nF                            CPOL-EUE5-6                      C1, C3                      
+1   100uH                            R-EU_0207/7                      L2                          
+1   220uF                            CPOL-EUE5-6                      C12                         
+1   470R                             R-EU_0204/7                      R6                          
+3   470R                             R-EU_R0805                       R1, R2, R7                  
+1   470k                             R-EU_R0805                       RC                          
+3   BAT42                            BAT42                            D1, D2, D4                  
+1   BAV21                            BAV21                            D3                          
+1   BC337                            BC337                            Q2                          
+1   BD140                            BD140                            Q1                          
+1   CON_HEADER_PRG_PIC_ICSP0.1INCH_A CON_HEADER_PRG_PIC_ICSP0.1INCH_A J1                          
+1   PIC16F628P                       PIC16F628P                       IC1                         
+2   TPS5420                          TPS5420                          U1, U2                      
+1   UC2906                           UC2906                           U3                          
+4   WIREPAD3,17/1,2                  WIREPAD3,17/1,2                  BAT+, BAT-, GND, VIN        

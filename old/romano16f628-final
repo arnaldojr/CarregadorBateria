@@ -1,0 +1,39 @@
+<b>Partlist exported from C:/Users/JUNIOR/Dropbox/trabalho maua/Projeto Romano/Eagle/romano16f628.sch at 04/06/2014 01:38:36</b>
+<p>
+<table>
+<tr><td><b>Qty</b></td><td><b>Value</b></td><td><b>Device</b></td><td><b>Package</b></td><td><b>Parts</b></td><td><b>Description</b></td><td><b>MF</b></td><td><b>MPN</b></td><td><b>OC_FARNELL</b></td><td><b>OC_NEWARK</b></td><td><b>SMD</b></td></tr>
+<tr><td>1</td><td></td><td>BAT42</td><td>DO35-10</td><td>D2</td><td>DIODE</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5</td><td></td><td>HEADER-1X2ROUND</td><td>1X02_ROUND</td><td>CN1, CN2, CN3, CN4, CN5</td><td>PIN HEADER</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td></td><td>HEADER-1X7ROUND</td><td>1X07_ROUND</td><td>CN6</td><td>PIN HEADER</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td></td><td>JUMPER3</td><td>JUMPER3</td><td>JP1</td><td>JUMPER - 3 Pins</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>6</td><td>100n</td><td>C-EUC0805</td><td>C0805</td><td>C2, C5, C6, C8, C11, C13</td><td>CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11</td><td>10k</td><td>R-EU_R0805</td><td>R0805</td><td>R4, R10, R11, R15, R16, R17, R18, R19, R20, R21, R23</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>10n</td><td>C-EUC0805</td><td>C0805</td><td>C1, C7</td><td>CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>10uF</td><td>CPOL-EUE5-6</td><td>E5-6</td><td>C12</td><td>POLARIZED CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>15k</td><td>R-EU_R0805</td><td>R0805</td><td>R6</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1N4004</td><td>1N4004</td><td>DO41-10</td><td>D1</td><td>DIODE</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1N5819-T</td><td>1N5819-T</td><td>DO41-7.6</td><td>D5</td><td>1.0A SCHOTTKY BARRIER RECTIFIER</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1R/1W</td><td>R-EU_0207/12</td><td>0207/12</td><td>R5</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1k5</td><td>R-EU_R0805</td><td>R0805</td><td>R1</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>1k69</td><td>R-EU_R0805</td><td>R0805</td><td>R7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>220uF</td><td>CPOL-EUE5-6</td><td>E5-6</td><td>C10</td><td>POLARIZED CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>22uH/3A</td><td>R-EU_0207/7</td><td>0207/7</td><td>L2</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>27k</td><td>R-EU_R0805</td><td>R0805</td><td>R13, R22</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>3k74</td><td>R-EU_R0805</td><td>R0805</td><td>R12</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>43k</td><td>R-EU_R0805</td><td>R0805</td><td>R9</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>470R</td><td>R-EU_0204/7</td><td>0204/7</td><td>R3</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>470R</td><td>R-EU_R0805</td><td>R0805</td><td>R14</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>470k</td><td>R-EU_R0805</td><td>R0805</td><td>R8</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>47uF</td><td>CPOL-EUE5-6</td><td>E5-6</td><td>C3, C4</td><td>POLARIZED CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>4u7F</td><td>CPOL-EUE5-6</td><td>E5-6</td><td>C9</td><td>POLARIZED CAPACITOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>4v3</td><td>ZENER-DIODEDO34-7</td><td>DO34Z7</td><td>D6</td><td>Z-Diode</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>66k5</td><td>R-EU_R0805</td><td>R0805</td><td>R2</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>68uH</td><td>R-EU_0207/7</td><td>0207/7</td><td>L1</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>BAT42</td><td>BAT42</td><td>DO35-10</td><td>D3, D4</td><td>DIODE</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>BC817</td><td>BC817-16-NPN-SOT23-BEC</td><td>SOT23-BEC</td><td>Q2, Q3</td><td>NPN Transistror</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>BD140</td><td>BD140</td><td>TO126AV</td><td>Q1</td><td>PNP TRANSISTOR</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>CON_HEADER_PRG_PIC_ICSP0.1INCH_A</td><td>CON_HEADER_PRG_PIC_ICSP0.1INCH_A</td><td>HEADER_PRG_1X05</td><td>CN7</td><td>5-pin PIC In Circuit Serial Programming header</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>PIC16F628P</td><td>PIC16F628P</td><td>DIL18</td><td>IC1</td><td>FLASH-Based 8-Bit CMOS Microcontroller</td><td>MICROCHIP</td><td>PIC16F628-20/P</td><td>9760423</td><td>23C4982</td><td></td></tr>
+<tr><td>2</td><td>TPS5420</td><td>TPS5420</td><td>SOIC8_150MIL</td><td>U1, U3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>UC2906</td><td>UC2906</td><td>SOIC_16</td><td>U2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
